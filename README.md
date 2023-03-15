@@ -31,4 +31,4 @@ I am a Data Scientist. <img src="https://media.giphy.com/media/SvckSy7fFviqrq8Cl
     Thank you for attention!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>
+</div>       
